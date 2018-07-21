@@ -22,7 +22,9 @@ class Users extends Component {
     const { loading, loaded, users } = this.props;
     return (
       <div className="user-table">
-        <h1>Home</h1>
+        <h1>
+          Home
+        </h1>
         {loading && (
           <div>
             Loading

@@ -1,4 +1,4 @@
-/* eslint-disable no-console, no-param-reassign, no-use-before-define */
+/* eslint-disable */
 
 // In production, we register a service worker to serve assets from local cache.
 
